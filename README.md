@@ -99,3 +99,4 @@ npm run dev
 ```
 
 Server runs on `http://localhost:3000`.
+Game Link-->  https://bingo-live-pvgc.onrender.com/
