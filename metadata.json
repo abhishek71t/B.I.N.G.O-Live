@@ -1,0 +1,8 @@
+{
+  "name": "B.I.N.G.O! Live",
+  "description": "Real-time multiplayer Bingo with friends. Create rooms, join via codes, and play seamlessly on any mobile device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
